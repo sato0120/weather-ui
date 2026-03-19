@@ -222,4 +222,3 @@
   document.getElementById("closeBtn").onclick=()=>wrap.remove();
 
 })();
-``
